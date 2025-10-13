@@ -76,18 +76,18 @@ Material:
     - _EdgeColorIntensity: 1
     - _EdgeWidth: 0.845
     - _Metallic: 0
-    - _NoiseScale: 723.76
+    - _NoiseScale: 108.3
     - _NormalScale: 1
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Smoothness: 0.871
     m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _BaseColor: {r: 4, g: 4, b: 4, a: 1}
     - _DirectionFactor: {r: 0, g: 0.1, b: 0, a: 0}
     - _DissolveDirection: {r: 0, g: 0.1, b: 0, a: 0}
     - _DissolveOffest: {r: 0, g: 0.25, b: 0, a: 0}
-    - _EdgeColor: {r: 0.31693596, g: 0, b: 3.7321322, a: 1}
+    - _EdgeColor: {r: 3.7321322, g: 0.070912145, b: 0, a: 1}
     - _NoiseUVSpeed: {r: 25, g: 1, b: 0, a: 0}
     - _Offest: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
